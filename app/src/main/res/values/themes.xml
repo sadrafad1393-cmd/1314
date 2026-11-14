@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Sadra" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/sadra_bg</item>
+        <item name="android:statusBarColor">@color/sadra_bg</item>
+        <item name="android:navigationBarColor">@color/sadra_bg</item>
+    </style>
+</resources>

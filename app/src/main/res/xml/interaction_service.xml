@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="com.sadra.ai.assistant.SadraSessionService"
+    android:recognitionService="com.sadra.ai.assistant.SadraRecognitionService"
+    android:settingsActivity="com.sadra.ai.MainActivity"
+    android:supportsAssist="true"
+    android:supportsLaunchVoiceAssistFromKeyguard="true" />
